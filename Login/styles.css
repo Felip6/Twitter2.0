@@ -1,0 +1,43 @@
+body {
+    background-color: rgb(65, 14, 161);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+}
+
+.card {
+    background-color: rgb(24, 175, 175);
+    padding: 50px;
+    border: 15px solid black;
+    border-radius: 10px 50PX;
+}
+.entrar{
+   background-color: rgb(65, 14, 161);
+   color: rgb(255, 255, 255);
+   border: 3px solid rgb(0, 0, 0);
+   text-align: center;
+   text-decoration: none;
+   font-size: 1.8.rem;
+   border-radius: .4rem;
+   padding: 1.2 rem 2.6rem;
+
+   margin-top: 0.9rem;
+}
+.html{
+   font-size: 62.5%;
+}
+.entrar:hover{
+   background-color: black;
+   
+}
+
+
+
+
